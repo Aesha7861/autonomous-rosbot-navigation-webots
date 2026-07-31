@@ -1,0 +1,3 @@
+# The Webots `controller` module is supplied by Webots and is not a pip package.
+numpy>=1.24,<3
+pygame>=2.5,<3
